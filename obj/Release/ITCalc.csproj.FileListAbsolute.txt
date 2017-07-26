@@ -1,0 +1,9 @@
+c:\users\losiektosiek\documents\visual studio 2013\Projects\ITCalc\ITCalc\bin\Release\ITCalc.exe.config
+c:\users\losiektosiek\documents\visual studio 2013\Projects\ITCalc\ITCalc\bin\Release\ITCalc.exe
+c:\users\losiektosiek\documents\visual studio 2013\Projects\ITCalc\ITCalc\bin\Release\ITCalc.pdb
+c:\users\losiektosiek\documents\visual studio 2013\Projects\ITCalc\ITCalc\obj\Release\ITCalc.csprojResolveAssemblyReference.cache
+c:\users\losiektosiek\documents\visual studio 2013\Projects\ITCalc\ITCalc\obj\Release\ITCalc.Form1.resources
+c:\users\losiektosiek\documents\visual studio 2013\Projects\ITCalc\ITCalc\obj\Release\ITCalc.Properties.Resources.resources
+c:\users\losiektosiek\documents\visual studio 2013\Projects\ITCalc\ITCalc\obj\Release\ITCalc.csproj.GenerateResource.Cache
+c:\users\losiektosiek\documents\visual studio 2013\Projects\ITCalc\ITCalc\obj\Release\ITCalc.exe
+c:\users\losiektosiek\documents\visual studio 2013\Projects\ITCalc\ITCalc\obj\Release\ITCalc.pdb

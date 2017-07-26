@@ -1,0 +1,18 @@
+C:\Users\losiektosiek\Desktop\ITCalc\bin\Debug\WindowsApplication.exe.config
+C:\Users\losiektosiek\Desktop\ITCalc\bin\Debug\WindowsApplication.exe
+C:\Users\losiektosiek\Desktop\ITCalc\bin\Debug\WindowsApplication.pdb
+C:\Users\losiektosiek\Desktop\ITCalc\obj\x86\Debug\ITCalc.csprojResolveAssemblyReference.cache
+C:\Users\losiektosiek\Desktop\ITCalc\obj\x86\Debug\ITCalc.Form1.resources
+C:\Users\losiektosiek\Desktop\ITCalc\obj\x86\Debug\ITCalc.Properties.Resources.resources
+C:\Users\losiektosiek\Desktop\ITCalc\obj\x86\Debug\ITCalc.csproj.GenerateResource.Cache
+C:\Users\losiektosiek\Desktop\ITCalc\obj\x86\Debug\WindowsApplication.exe
+C:\Users\losiektosiek\Desktop\ITCalc\obj\x86\Debug\WindowsApplication.pdb
+C:\Users\losiektosiek\Documents\Visual Studio 2013\Projects\ITCalc\bin\Debug\WindowsApplication.exe.config
+C:\Users\losiektosiek\Documents\Visual Studio 2013\Projects\ITCalc\bin\Debug\WindowsApplication.exe
+C:\Users\losiektosiek\Documents\Visual Studio 2013\Projects\ITCalc\bin\Debug\WindowsApplication.pdb
+C:\Users\losiektosiek\Documents\Visual Studio 2013\Projects\ITCalc\obj\x86\Debug\ITCalc.csprojResolveAssemblyReference.cache
+C:\Users\losiektosiek\Documents\Visual Studio 2013\Projects\ITCalc\obj\x86\Debug\ITCalc.Form1.resources
+C:\Users\losiektosiek\Documents\Visual Studio 2013\Projects\ITCalc\obj\x86\Debug\ITCalc.Properties.Resources.resources
+C:\Users\losiektosiek\Documents\Visual Studio 2013\Projects\ITCalc\obj\x86\Debug\ITCalc.csproj.GenerateResource.Cache
+C:\Users\losiektosiek\Documents\Visual Studio 2013\Projects\ITCalc\obj\x86\Debug\WindowsApplication.exe
+C:\Users\losiektosiek\Documents\Visual Studio 2013\Projects\ITCalc\obj\x86\Debug\WindowsApplication.pdb
